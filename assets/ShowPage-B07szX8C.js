@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{j as o,h as r}from"./index-eJUgCA1R.js";const c={};function t(n,a){return r(),o("div",null," 路由页面 ")}const f=e(c,[["render",t]]);export{f as default};
