@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as r,j as t,k as o,M as c,H as _}from"./index-DWoWLMtk.js";const l={};function u(n,a){return r(),t("div",null,"Page 2")}const m=s(l,[["render",u]]),d={__name:"MM",setup(n){return(a,e)=>(r(),t(_,null,[e[0]||(e[0]=o("div",null,"Page source ",-1)),c(m)],64))}};export{d as default};
