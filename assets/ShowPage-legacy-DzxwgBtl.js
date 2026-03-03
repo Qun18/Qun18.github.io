@@ -1,0 +1,1 @@
+System.register(["./_plugin-vue_export-helper-legacy-BVIICed7.js","./index-legacy-txR00DDc.js"],function(e,t){"use strict";var r,n,u;return{setters:[e=>{r=e._},e=>{n=e.c,u=e.b}],execute:function(){e("default",r({},[["render",function(e,t){return u(),n("div",null," 路由页面 ")}]]))}}});
