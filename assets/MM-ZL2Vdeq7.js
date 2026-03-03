@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,b as t,d as c,M as o,H as _}from"./index-OzuDbocM.js";const l={};function u(n,a){return t(),r("div",null,"Page 2")}const m=s(l,[["render",u]]),p={__name:"MM",setup(n){return(a,e)=>(t(),r(_,null,[e[0]||(e[0]=c("div",null,"Page source ",-1)),o(m)],64))}};export{p as default};
